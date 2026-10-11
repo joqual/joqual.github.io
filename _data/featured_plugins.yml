@@ -68,20 +68,6 @@
   maintainer_contact: https://github.com/al-org-dev
   notes: Transitional compatibility for legacy Bootstrap-marked content.
 
-- name: al_icons
-  repo_url: https://github.com/al-org-dev/al-icons
-  gem_name: al_icons
-  jekyll_plugin_id: al_icons
-  owner: al-org-dev
-  license: See plugin repo LICENSE
-  compat:
-    al_folio_min: "1.0.0"
-    al_folio_max: "1.x"
-  status: bundled
-  demo_path: /about/
-  maintainer_contact: https://github.com/al-org-dev
-  notes: Icon runtime loading (Font Awesome, Academicons, Scholar Icons).
-
 - name: al_cookie
   repo_url: https://github.com/al-org-dev/al-cookie
   gem_name: al_cookie
